@@ -4,7 +4,8 @@
 
 int main()
 {
-    int N = 0;
-    std::cin >> N;
-    std::cout << "Here's your number" << N << std::endl;
+    int n;
+    std::cin >> n;
+    std::cout << "Here's your number " << n << std::endl;
+    return 0;
 }
