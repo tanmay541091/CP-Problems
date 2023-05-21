@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\msys64\\mingw64\\bin"
+                "C:\\msys64\\mingw64\\include"
             ],
             "defines": [
                 "_DEBUG",
@@ -15,7 +15,7 @@
             "compilerPath": "cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "${default}"
         }
     ],
     "version": 4
